@@ -1,10 +1,16 @@
+# [a tiny rant about logseq](https://www.youtube.com/watch?v=nanD9vKQVWI)
+
+<p><video controls style="width:100%;">
+  <source src="../videos/dont-use-logseq.mp4" type="video/mp4">
+</video></p>
+
 ## Description
 
 My PayPal: [https://paypal.me/Guard13007](https://paypal.me/Guard13007)
 My Blog: [https://blog.tangentfox.com/](https://blog.tangentfox.com/)
 My Patreon (probably doesn't work): [https://www.patreon.com/guard13007](https://www.patreon.com/guard13007)
 
-Links are kept outside of my YouTube descriptions after [YouTube threatened me over linking to the New York Times](https://gist.github.com/TangentFoxy/e396fff78ea6494f0dec1f6632ebeb26):
+Links are kept outside of my YouTube descriptions after [YouTube threatened me over linking to the New York Times](../YouTube-threat.md):
 1. [Logseq](https://logseq.com)
 2. [How do I re-index? #7825](https://github.com/logseq/logseq/discussions/7825) (GitHub Discussion)
 3. [Severe privacy violations / private data leakage when using export / publish feature #10514](https://github.com/logseq/logseq/issues/10514) (GitHub Issue)  
