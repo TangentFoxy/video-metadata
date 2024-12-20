@@ -3,3 +3,7 @@ After [YouTube threatened me for linking to the New York Times](./YouTube-threat
 
 ## Videos
 - [Is LK-99 real? Does it even matter if it is?](./metadata/lk-99-sources)
+
+---
+
+[source for this page/site/repo](https://github.com/TangentFoxy/video-metadata)
