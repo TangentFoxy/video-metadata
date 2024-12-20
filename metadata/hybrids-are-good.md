@@ -1,4 +1,6 @@
-# [Dear Engineering Explained, Hybrids Are GOOD For Your Engine, Actually](https://www.youtube.com/watch?v=2L5a8GbqjbQ)
+# Dear Engineering Explained, Hybrids Are GOOD For Your Engine, Actually
+
+Watch [on YouTube](https://www.youtube.com/watch?v=2L5a8GbqjbQ) or below:
 
 <p><video controls style="width:100%;">
   <source src="../videos/hybrids-are-good.mp4" type="video/mp4">
