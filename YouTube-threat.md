@@ -1,4 +1,4 @@
-# Email Screenshot of Threat Received
+# Email Screenshot
 
 ![YouTube threatened me.](./YouTube-threat.png)
 
