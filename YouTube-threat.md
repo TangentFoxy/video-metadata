@@ -1,8 +1,8 @@
-# Screenshot
+# Email Screenshot of Threat Received
 
 ![YouTube threatened me.](./YouTube-threat.png)
 
-# Text
+# Text Copy of Email
 
 Hi ████████████████████
 
