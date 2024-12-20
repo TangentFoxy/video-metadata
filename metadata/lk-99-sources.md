@@ -1,4 +1,6 @@
-# [Is LK-99 real? Does it even matter if it is?](https://youtu.be/nSgo_tq-z5s)
+# Is LK-99 real? Does it even matter if it is?
+
+Watch [on YouTube](https://youtu.be/nSgo_tq-z5s) or below:
 
 <p><video controls style="width:100%;">
   <source src="../videos/lk-99-video.mp4" type="video/mp4">
