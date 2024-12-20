@@ -1,6 +1,8 @@
-![YouTube threatened me.](https://raw.githubusercontent.com/TangentFoxy/video-metadata/refs/heads/main/YouTube-threat.png)
+# Screenshot
 
----
+![YouTube threatened me.](./YouTube-threat.png)
+
+# Text
 
 Hi ████████████████████
 
