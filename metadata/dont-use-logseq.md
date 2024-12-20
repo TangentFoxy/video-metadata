@@ -1,4 +1,6 @@
-# [a tiny rant about logseq](https://www.youtube.com/watch?v=nanD9vKQVWI)
+# a tiny rant about logseq
+
+Watch [on YouTube](https://www.youtube.com/watch?v=nanD9vKQVWI) or below:
 
 <p><video controls style="width:100%;">
   <source src="../videos/dont-use-logseq.mp4" type="video/mp4">
