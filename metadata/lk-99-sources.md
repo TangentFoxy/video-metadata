@@ -1,5 +1,7 @@
 # [Is LK-99 real? Does it even matter if it is?](https://youtu.be/nSgo_tq-z5s)
 
+<p><video src="//metadata/videos/lk-99-video.mp4"></video></p>
+
 YouTube [threatened to file a strike against my channel for linking to the New York Times](https://github.com/TangentFoxy/video-metadata/blob/main/YouTube-threat.md)
 in my video's description, so I moved all source information elsewhere to avoid this problem
 happening again. This will be how I publish videos from now on.
