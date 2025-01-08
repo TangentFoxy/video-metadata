@@ -13,7 +13,7 @@ Blog: [https://blog.tangentfox.com/](https://blog.tangentfox.com/)
 My Patreon (probably doesn't work): [https://www.patreon.com/guard13007](https://www.patreon.com/guard13007)
 
 Links are kept outside of my YouTube descriptions after [YouTube threatened me over linking to the New York Times](../YouTube-threat.md):  
-- https://en.wikipedia.org/wiki/Vehicle_fire
+- [https://en.wikipedia.org/wiki/Vehicle_fire](https://en.wikipedia.org/wiki/Vehicle_fire)
 
 ## Script
 
