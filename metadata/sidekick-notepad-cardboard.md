@@ -19,6 +19,7 @@ Links are kept outside of my YouTube descriptions after [YouTube threatened me o
 4. [My Shared Notes](https://share.note.sx/gdon3y36)
 5. [Sidekick-Like Notepad Template(s)](https://share.note.sx/0yezyb49)
 6. [Learning in public with Personal Knowledge Management](https://www.youtube.com/watch?v=i-uNtkre1aE) by [Nicole van der Hoeven](https://www.youtube.com/@nicolevdh) since I mentioned stealing public notetaking from her.
+7. The specific tape I used is from a cheap packing tape U-Haul sells.
 
 ## Script
 
