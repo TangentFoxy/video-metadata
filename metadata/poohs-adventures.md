@@ -16,9 +16,18 @@ Links are kept outside of my YouTube descriptions after [YouTube threatened me o
 1. THE WIKI https://poohadventures.fandom.com/wiki/Pooh%27s_Adventures_Wiki
 2. After writing/recording, I found a better tool for exporting a full wiki: https://github.com/WikiTeam/wikiteam (it's a little hard to use though, because it relies on deprecated technology)
 3. Page export is at [Special:Export](https://poohadventures.fandom.com/wiki/Special:Export) and the all pages are listed from [Special:AllPages](https://poohadventures.fandom.com/wiki/Special:AllPages).
-4. A decent introduction to the wiki: [The Crossover Hell of Pooh's Adventures](https://www.youtube.com/watch?v=_QItdZoWyzg) by [That Yozzy Bloke](https://www.youtube.com/@ThatYozzyBloke)
-5. [Torren](https://www.youtube.com/@torren5950) makes cool Animorphs videos. And cool other videos.
-6. (a brief badly done "what the fuck" - this is where one of the quotes at the end comes from because it's no longer on the wiki) [Journey through the Pooh's Adventures Wiki](https://www.youtube.com/watch?v=k6e9NSE1TQI) by [Max Goes Fourth](https://www.youtube.com/@MaxGoesFourth)
+4. There's also a bulk export at [Special:Statistics](https://poohadventures.fandom.com/wiki/Special:Statistics).
+5. A decent introduction to the wiki: [The Crossover Hell of Pooh's Adventures](https://www.youtube.com/watch?v=_QItdZoWyzg) by [That Yozzy Bloke](https://www.youtube.com/@ThatYozzyBloke)
+6. [Torren](https://www.youtube.com/@torren5950) makes cool Animorphs videos. And cool other videos.
+7. (a brief badly done "what the fuck" - this is where one of the quotes at the end comes from because it's no longer on the wiki) [Journey through the Pooh's Adventures Wiki](https://www.youtube.com/watch?v=k6e9NSE1TQI) by [Max Goes Fourth](https://www.youtube.com/@MaxGoesFourth)
+
+Using wikiteam, I archived as much as possible, and the last line recorded before Fandom pulled the plug was:
+
+```
+Thread:Yru17/@comment-24574037-20160831052007, 1 edit
+```
+
+I will try to get this uploaded to archive.org asap.
 
 ## Script
 
