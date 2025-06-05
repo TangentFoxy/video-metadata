@@ -29,6 +29,10 @@ Thread:Yru17/@comment-24574037-20160831052007, 1 edit
 
 I will try to get this uploaded to archive.org asap.
 
+---
+
+Related documentation about database dumps: https://community.fandom.com/wiki/Help:Database_download
+
 ## Script
 
 Pooh's Adventures Wiki. We all know it, we all love it. Where else will you read about a sentient train being enslaved by a princess while dating a pony, or the millions of cousins of Christopher Robin?
