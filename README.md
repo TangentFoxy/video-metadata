@@ -10,6 +10,9 @@ After [YouTube threatened me for linking to the New York Times](./YouTube-threat
 - [Dear Engineering Explained, Hybrids Are GOOD For Your Engine, Actually](./metadata/hybrids-are-good)
 - [Is LK-99 real? Does it even matter if it is?](./metadata/lk-99-sources)
 
+## Series
+- [Minecraft: Dead World UltraBarren w Ky](./metadata/minecraft-dead-world-ultra-barren-w-ky)
+
 ---
 
 [source for this page/site/repo](https://github.com/TangentFoxy/video-metadata)
