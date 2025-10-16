@@ -1,8 +1,6 @@
 # Minecraft: Dead World UltraBarren w Ky
 
-This is a series.
-
-Watch [on YouTube](https://www.youtube.com/playlist?list=PLPdVkV7CAru8_ZO95D3ahhFV1DFKbJAuU).
+This is a series. **Watch [on YouTube](https://www.youtube.com/playlist?list=PLPdVkV7CAru8_ZO95D3ahhFV1DFKbJAuU).**
 
 ## Description
 
