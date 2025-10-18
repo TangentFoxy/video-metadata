@@ -1,6 +1,6 @@
 # Sprinting to the Far Lands in Minecraft 1.21.9 Hardcore
 
-This is a series. **Watch [on YouTube](YOUTUBE_VIDEO_LINK).**
+This is a series. **Watch [on YouTube](https://www.youtube.com/playlist?list=PLPdVkV7CAru8Es7GO81qozpLt3fUrx44S).**
 
 ## Description
 
