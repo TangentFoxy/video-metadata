@@ -11,6 +11,7 @@ After [YouTube threatened me for linking to the New York Times](./YouTube-threat
 - [Is LK-99 real? Does it even matter if it is?](./metadata/lk-99-sources)
 
 ## Series
+- [Sprinting to the Far Lands in Minecraft 1.21.9 Hardcore](./metadata/sprinting-to-the-far-lands)
 - [Minecraft: Dead World UltraBarren w Ky](./metadata/minecraft-dead-world-ultra-barren-w-ky)
 
 ---
