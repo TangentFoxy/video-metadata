@@ -11,4 +11,4 @@ My Patreon (probably doesn't work): [https://www.patreon.com/guard13007](https:/
 Links are kept outside of my YouTube descriptions after [YouTube threatened me over linking to the New York Times](../YouTube-threat.md):
 - My Twitch channel: [tangentfox](https://twitch.tv/tangentfox)
 - Mod: Farlands Reborn ([source](https://github.com/AdyTech99/Farlands-Reborn), [Modrinth](https://modrinth.com/mod/farlands-reborn/versions), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/farlands-reborn))
-- I share Minecraft saves on my Gitea server: https://gitea.tangentfox.com/Minecraft
+- I share Minecraft saves on my Gitea server: [https://gitea.tangentfox.com/Minecraft](https://gitea.tangentfox.com/Minecraft)
