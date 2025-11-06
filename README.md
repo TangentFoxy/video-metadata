@@ -2,6 +2,7 @@
 After [YouTube threatened me for linking to the New York Times](./YouTube-threat), I do not store important info in video descriptions. I was storing descriptions and scripts in GitHub Gists, but [Gitea](https://about.gitea.com) doesn't allow mirroring Gists and it makes organization and interrelation of different videos/links far more difficult than it needs to be.
 
 ## Videos
+- [AI destroyed jobs for zoomers.. work was already bad](./metadata/ai-destroyed-jobs)
 - [YouTube's War on Everyone](./metadata/youtubes-war)
 - [Saving Pooh's Adventures! (Full Movie)](./metadata/poohs-adventures)
 - [Sidekick(Like) Notepad: Poverty Version! ✨it's made of cardboard✨](./metadata/sidekick-notepad-cardboard)
