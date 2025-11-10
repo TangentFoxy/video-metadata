@@ -15,7 +15,7 @@ Links are kept outside of my YouTube descriptions after [YouTube threatened me o
 For this video, I have **bolded** the best sources, with the exception of the bolded **warning** about the IMF article:
 1. Stanford [Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence](https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf)
 2. Harvard [Generative AI as Seniority-Biased Technological Change: Evidence from U.S. Résumé and Job Posting Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555)
-3. macrotrends.net [U.S. Population | Historical Data | Chart | 1950-2025](https://www.macrotrends.net/datasets/global-metrics/countries/usa/united-states/population)
+3. macrotrends.net [U.S. Population \| Historical Data \| Chart \| 1950-2025](https://www.macrotrends.net/datasets/global-metrics/countries/usa/united-states/population)
 4. **statista** [U.S. Wages Haven't Kept Up With Inflation](https://www.statista.com/chart/32428/inflation-and-wage-growth-in-the-united-states/)
 5. Economic Policy Institute [The Productivity–Pay Gap](https://www.epi.org/productivity-pay-gap/) (EPI's name is suspicious, [but they're pretty reliable](https://mediabiasfactcheck.com/economic-policy-institute/).)
 6. **Pew Research Center** [For most U.S. workers, real wages have barely budged in decades](https://www.pewresearch.org/short-reads/2018/08/07/for-most-us-workers-real-wages-have-barely-budged-for-decades/)
