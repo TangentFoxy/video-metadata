@@ -13,7 +13,7 @@ Blog: [https://blog.tangentfox.com/](https://blog.tangentfox.com/)
 My Patreon (probably doesn't work): [https://www.patreon.com/guard13007](https://www.patreon.com/guard13007)
 
 Links are kept outside of my YouTube descriptions after [YouTube threatened me over linking to the New York Times](../YouTube-threat.md):  
-1. THE WIKI https://poohadventures.fandom.com/wiki/Pooh%27s_Adventures_Wiki
+1. THE WIKI [https://poohadventures.fandom.com/wiki/Pooh%27s_Adventures_Wiki](https://poohadventures.fandom.com/wiki/Pooh%27s_Adventures_Wiki)
 2. After writing/recording, I found a better tool for exporting a full wiki: https://github.com/WikiTeam/wikiteam (it's a little hard to use though, because it relies on deprecated technology)
 3. Page export is at [Special:Export](https://poohadventures.fandom.com/wiki/Special:Export) and the all pages are listed from [Special:AllPages](https://poohadventures.fandom.com/wiki/Special:AllPages).
 4. There's also a bulk export at [Special:Statistics](https://poohadventures.fandom.com/wiki/Special:Statistics).
