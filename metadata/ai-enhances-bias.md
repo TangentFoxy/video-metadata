@@ -39,6 +39,8 @@ The following are articles and studies I looked at while working on this video, 
 - TechTarget: [The impact of AI on social media](https://www.techtarget.com/WhatIs/feature/The-impact-of-AI-on-social-media)
 - Springer Nature Link: [The poverty of ethical AI: impact sourcing and AI supply chains](https://link.springer.com/article/10.1007/s00146-023-01824-9)
 
+Since I spent a lot of this talking about medicine, and Dr. Rohin Francis posted [a short about AI in medicine](https://www.youtube.com/watch?v=hRv5KU6dFsU) around the same time this published talking about how diagnosis is a very small part of the job of being a doctor, and so proposals in automating diagnosis don't do very much.
+
 ## Script
 
 I have a note about why AI can't write good fiction. The core is that AI is a "most popular" text machine. By their core design, LLMs *must* only output the most trite text possible. This is an unshakable problem with AI, but it also sucks at writing because of endless forced positivity, and never knowing when to stop. There's a lot more to this, but that's not the point I'm here for today. I'm here to talk about bias.
