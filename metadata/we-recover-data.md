@@ -1,6 +1,6 @@
 # WeRecoverData's Denver location has no employees
 
-Watch [on YouTube](YOUTUBE_VIDEO_LINK) or below:
+Watch [on YouTube](https://www.youtube.com/watch?v=uXsjYjh44Uk) or below:
 
 <p><video controls style="width:100%;">
   <source src="../videos/we-recover-data.mp4" type="video/mp4">
