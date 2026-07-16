@@ -15,6 +15,7 @@ Links are kept outside of my YouTube descriptions after [YouTube threatened me o
 3. Louis Rossmann's public citations of everything related to this on the Consumer Rights Wiki: [User:Louis/WeRecoverData's advertised US locations](https://consumerrights.wiki/w/User:Louis/WeRecoverData's_advertised_US_locations)
 4. Google Business Profile Help: [Guidelines for representing your business on Google](https://support.google.com/business/answer/3038177). (The relevant section is under the "Address" dropdown.)
 5. [I posted a copy of the DuckDuckGo screenshot on Bluesky](https://bsky.app/profile/tangentfoxofficial.bsky.social/post/3mql2wqc36c2i).
+6. The article WeRecoverData objects to: [Is WeRecoverData Safe?](https://rossmanngroup.com/is-werecoverdata-recovery-safe)
 
 PayPal: [https://paypal.me/Guard13007](https://paypal.me/Guard13007)  
 Blog: [https://blog.tangentfox.com/](https://blog.tangentfox.com/)  
