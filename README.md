@@ -18,3 +18,5 @@ After [YouTube threatened me for linking to the New York Times](./YouTube-threat
 ## Series
 - [Sprinting to the Far Lands in Minecraft 1.21.9 Hardcore](./metadata/sprinting-to-the-far-lands.md)
 - [Minecraft: Dead World UltraBarren w Ky](./metadata/minecraft-dead-world-ultra-barren-w-ky.md)
+
+This piece of text was added to trigger a deployment, since GitHub is too incompetent to do that when you enable Pages.
