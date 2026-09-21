@@ -1,10 +1,6 @@
 # AI written or human slop? - Mr. Beast's Book
 
-Watch [on YouTube](https://youtu.be/tJNjbrMeAR8) or below:
-
-<p><video controls style="width:100%;">
-  <source src="../videos/ai-writing-analysis.mp4" type="video/mp4">
-</video></p>
+Watch [on YouTube](https://youtu.be/tJNjbrMeAR8).
 
 ## Description
 
