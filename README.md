@@ -4,6 +4,7 @@ After [YouTube threatened me for linking to the New York Times](./YouTube-threat
 [Open the webpage, so videos load and you can browse it as intended.](https://tangentfoxy.github.io/video-metadata/)
 
 ## Videos
+- [AI written or human slop? - Mr. Beast's Book](./metadata/ai-writing-analysis.md)
 - [WeRecoverData's Denver location has no employees](./metadata/we-recover-data.md)
 - [AI is a Bias Enhancing Machine](./metadata/ai-enhances-bias.md)
 - [AI destroyed jobs for zoomers.. work was already bad](./metadata/ai-destroyed-jobs.md)
