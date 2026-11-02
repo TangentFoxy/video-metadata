@@ -20,4 +20,11 @@ After [YouTube threatened me for linking to the New York Times](./YouTube-threat
 - [Sprinting to the Far Lands in Minecraft 1.21.9 Hardcore](./metadata/sprinting-to-the-far-lands.md)
 - [Minecraft: Dead World UltraBarren w Ky](./metadata/minecraft-dead-world-ultra-barren-w-ky.md)
 
-This piece of text was added to trigger a deployment, since GitHub is too incompetent to do that when you enable Pages.
+### Note to self how to update this.
+1. Click edit on the ReadMe.
+2. Add the video link above.
+3. Commit **in a new branch**!
+4. Copy the TEMPLATE file to make the HTML.
+5. Upload the video file. (Might need to do locally and push commit.)
+6. Create a pull request.
+7. Send it bitch.
