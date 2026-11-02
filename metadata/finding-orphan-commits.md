@@ -13,6 +13,9 @@ Links are kept outside of my YouTube descriptions after [YouTube threatened me o
 2. YouTube: [Git Will Finally Make Sense After This](https://www.youtube.com/watch?v=Ala6PHlYjmw) by [LearnThatStack](https://www.youtube.com/@LearnThatStack)
 3. Help me financially: <a href="https://paypal.me/guard13007">PayPal.me/Guard13007</a>
 
+For information on how to use git: [https://www.youtube.com/watch?v=WumOmMA6hDI](https://www.youtube.com/watch?v=WumOmMA6hDI)  
+Or, make chili: [https://www.youtube.com/watch?v=4v2gmNWGHm0](https://www.youtube.com/watch?v=4v2gmNWGHm0)
+
 Blog: [https://blog.tangentfox.com/](https://blog.tangentfox.com/)  
 My Patreon (probably doesn't work): [https://www.patreon.com/guard13007](https://www.patreon.com/guard13007)
 
