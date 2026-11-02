@@ -1,9 +1,9 @@
 # Finding Orphan Commits (git)
 
-Watch [on YouTube](YOUTUBE_VIDEO_LINK) or below:
+Watch [on YouTube](https://www.youtube.com/watch?v=OEioHTvFlnE) or below:
 
 <p><video controls style="width:100%;">
-  <source src="../videos/VIDEO_FILENAME.mp4" type="video/mp4">
+  <source src="../videos/finding-orphan-commits.mp4" type="video/mp4">
 </video></p>
 
 ## Description
