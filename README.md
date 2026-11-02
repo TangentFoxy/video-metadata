@@ -24,7 +24,8 @@ After [YouTube threatened me for linking to the New York Times](./YouTube-threat
 1. Click edit on the ReadMe.
 2. Add the video link above.
 3. Commit **in a new branch**!
-4. Copy the TEMPLATE file to make the HTML.
-5. Upload the video file. (Might need to do locally and push commit.)
-6. Create a pull request.
-7. Send it bitch.
+4. **Update the index.md with the link too!**
+5. Copy the TEMPLATE file to make the HTML.
+6. Upload the video file. (Might need to do locally and push commit.)
+7. Create a pull request.
+8. Send it bitch.
