@@ -1,6 +1,8 @@
 # Sprinting to the Far Lands in Minecraft ~~1.21.9 Hardcore~~ 26.2
 
-This is a series. ~~**Watch [on YouTube](https://www.youtube.com/playlist?list=PLPdVkV7CAru8Es7GO81qozpLt3fUrx44S).**~~ I haven't created the new playlist yet, as I've only uploaded [a Short](https://youtube.com/shorts/RZGRu5-DYYI) so far.
+This is a series. ~~**Watch [on YouTube](https://www.youtube.com/playlist?list=PLPdVkV7CAru8Es7GO81qozpLt3fUrx44S).**~~ I haven't created ~~the new playlist~~ new videos yet, as I've only uploaded [a Short](https://youtube.com/shorts/RZGRu5-DYYI) ~~so far~~ and VODs so far!
+
+- **[VOD playlist on YouTube](https://www.youtube.com/playlist?list=PLRSCCnhIvqdk)**
 
 ## Description
 
@@ -11,4 +13,5 @@ My Patreon (probably doesn't work): [https://www.patreon.com/guard13007](https:/
 Links are kept outside of my YouTube descriptions after [YouTube threatened me over linking to the New York Times](../YouTube-threat.md):
 - My Twitch channel: [tangentfox](https://twitch.tv/tangentfox)
 - Mod: Classic Farlands ([Modrinth](https://modrinth.com/mod/classic-farlands))
-- ~~I share Minecraft saves on my Gitea server: [https://gitea.tangentfox.com/Minecraft](https://gitea.tangentfox.com/Minecraft)~~ (This will be coming back.)
+- I share Minecraft saves on my Gitea server: [https://gitea.tangentfox.com/Minecraft](https://gitea.tangentfox.com/Minecraft)  
+  Temporary 2nd server: [https://gitea2.tangentfox.com/Minecraft](https://gitea2.tangentfox.com/Minecraft)
