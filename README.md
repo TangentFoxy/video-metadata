@@ -4,6 +4,7 @@ After [YouTube threatened me for linking to the New York Times](./YouTube-threat
 [Open the webpage, so videos load and you can browse it as intended.](https://tangentfoxy.github.io/video-metadata/)
 
 ## Videos
+- [microlog - The best Lua logging library ever](./metadata/microlog.md)
 - [Finding Orphan Commits (git)](./metadata/finding-orphan-commits.md)
 - [AI written or human slop? - Mr. Beast's Book](./metadata/ai-writing-analysis.md)
 - [WeRecoverData's Denver location has no employees](./metadata/we-recover-data.md)
