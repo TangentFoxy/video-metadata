@@ -1,6 +1,6 @@
-# VIDEO_TITLE
+# microlog - The best Lua logging library ever made!
 
-Watch [on YouTube](YOUTUBE_VIDEO_LINK) or below:
+Watch [on YouTube](https://www.youtube.com/watch?v=lTwpKIBiPRs) or below:
 
 <p><video controls style="width:100%;">
   <source src="../videos/microlog.mp4" type="video/mp4">
@@ -9,6 +9,8 @@ Watch [on YouTube](YOUTUBE_VIDEO_LINK) or below:
 00:00 A brief history of logging  
 02:19 What is common today  
 03:28 Why microlog is better
+
+View it on GitHub: https://github.com/TangentFoxy/lua-microlog
 
 ## Description
 
