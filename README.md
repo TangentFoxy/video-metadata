@@ -31,4 +31,4 @@ After [YouTube threatened me for linking to the New York Times](./YouTube-threat
 5. Copy the TEMPLATE file to make the HTML.
 6. Upload the video file. (Might need to do locally and push commit.)
 7. Create a pull request.
-8. Send it bitch.
+8. Send it bitch. **DO THIS BEFORE PUBLISHING ON YOUTUBE** because GitHub is slow and unreliable.
