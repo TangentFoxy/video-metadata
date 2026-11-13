@@ -1,7 +1,8 @@
 # Sprinting to the Far Lands in Minecraft ~~1.21.9 Hardcore~~ 26.2
 
-This is a series. ~~**Watch [on YouTube](https://www.youtube.com/playlist?list=PLPdVkV7CAru8Es7GO81qozpLt3fUrx44S).**~~ I haven't created ~~the new playlist~~ new videos yet, as I've only uploaded [a Short](https://youtube.com/shorts/RZGRu5-DYYI) ~~so far~~ and VODs so far!
+This is a series streamed near daily [here on Twitch](https://twitch.tv/tangentfox).
 
+- **[Highlights playlist on YouTube](https://www.youtube.com/playlist?list=PLK_S4Ln1Vyxo)**
 - **[VOD playlist on YouTube](https://www.youtube.com/playlist?list=PLRSCCnhIvqdk)**
 
 ## Description
