@@ -4,6 +4,7 @@ This is a series streamed near daily [here on Twitch](https://twitch.tv/tangentf
 
 - **[Highlights playlist on YouTube](https://www.youtube.com/playlist?list=PLK_S4Ln1Vyxo)**
 - **[VOD playlist on YouTube](https://www.youtube.com/playlist?list=PLRSCCnhIvqdk)**
+- [MCA Selector will save my sprint to the Farlands](https://www.youtube.com/watch?v=qhoGL71j78s)
 
 ## Description
 
